@@ -1,0 +1,32 @@
+{
+  "name": "car-cost-calculator",
+  "version": "1.0.0",
+  "description": "A utility tool that can help you with your car buying process. It will calculate the y early cost of a car given a car's price, mileage, estimated end of life, mileage, maintenance costs, etc.",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StormValkyrie/Car-Cost-Calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "car-cost-calculator",
+    "finance-utility",
+    "finance-tool"
+  ],
+  "author": "Cristina Ruth",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/StormValkyrie/Car-Cost-Calculator/issues"
+  },
+  "homepage": "https://github.com/StormValkyrie/Car-Cost-Calculator#readme"
+}
